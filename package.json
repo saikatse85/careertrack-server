@@ -12,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@google/genai": "^2.13.0",
     "@hookform/resolvers": "^5.4.0",
     "@prisma/client": "^6.19.3",
     "bcrypt": "^6.0.0",
@@ -19,6 +20,7 @@
     "dotenv": "^17.4.2",
     "express": "^5.2.1",
     "jsonwebtoken": "^9.0.3",
+    "openai": "^6.48.0",
     "prisma": "^6.19.3",
     "react-hook-form": "^7.82.0",
     "sweetalert2": "^11.26.25",
